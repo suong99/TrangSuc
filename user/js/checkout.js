@@ -46,7 +46,7 @@ function load() {
     loadCart();
     loadInf();
   } else {
-    alert("bạn cần đăng nhập để mua hàng!!");
+    alert("Bạn cần đăng nhập để mua hàng!!");
     window.location = "login.html";
   }
  
